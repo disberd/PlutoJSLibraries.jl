@@ -1,0 +1,20 @@
+name = "PlutoJSLibraries"
+uuid = "d3c6423c-1175-4028-8bdf-41078ef7ce07"
+authors = ["Alberto Mengali <disberd@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+AbstractPlutoDingetjes = "6e696c72-6542-2067-7265-42206c756150"
+Bun_jll = "2cacd568-d418-568b-8764-7ebab4cf2504"
+HypertextLiteral = "ac1192a8-f4b3-4bfe-ba22-af5b92cd3ab2"
+JSON3 = "0f8b85d8-7281-11e9-16c2-39a750bddbf1"
+Scratch = "6c6a2e73-6563-6170-7368-637461726353"
+
+[sources]
+Bun_jll = {url = "https://github.com/disberd/Bun_jll.jl"}
+
+[compat]
+AbstractPlutoDingetjes = "1.3.2"
+HypertextLiteral = "0.9.5"
+JSON3 = "1.14.2"
+Scratch = "1.2.1"
